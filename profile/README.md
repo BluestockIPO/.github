@@ -1,7 +1,7 @@
 # Bluestock Fintech - IPO Web Application & REST API Development
 
 <p align="center">
-  <img src="logo (1).png" alt="Bluestock" width="200"/>
+  <img src="logo (1).png" alt="Bluestock"/>
 </p>
 
 <h1 align="center">BlueStock Fintech</h1>
