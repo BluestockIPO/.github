@@ -113,8 +113,8 @@ Follow these steps to set up the **Bluestock Fintech IPO Web Application & REST 
 ### 🛠️ Step-by-Step Installation  
 #### 1️⃣ Clone the Repository  
 ```sh  
-git clone https://github.com/your-repo/bluestock-fintech.git  
-cd bluestock-fintech  
+git clone https://github.com/BluestockIPO/BlueStock.git 
+cd BlueStock 
 ```  
 #### 2️⃣ Install Dependencies  
 ```sh  
