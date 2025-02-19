@@ -67,31 +67,22 @@ This platform will serve both Bluestock Fintech’s website/app and client websi
 
 ## Tech Stack
 
-Our project leverages a modern tech stack to build a robust and scalable application:
+### Frontend  
+| Tech                | Icon                                                                                     | Purpose                           |  
+|--------------------|-----------------------------------------------------------------------------------------|-----------------------------------|  
+| **React**          | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)           | UI development                    |  
+| **Vite**           | ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white)              | Fast build tool                    |  
+| **JavaScript**     | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) | Core programming language         |  
+| **Tailwind CSS**   | ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwindcss)       | Styling                           |  
 
-- **React**  
-  ![React](./assets/icons/react.svg)
+### Backend  
+| Tech            | Icon                                                                                     | Purpose                               |  
+|---------------|-----------------------------------------------------------------------------------------|---------------------------------------|  
+| **Node.js**    | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)   | Server-side JavaScript runtime       |  
+| **Express**    | ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)   | Web framework for Node.js            |  
+| **Firebase**   | ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) | Authentication & database services   |  
+| **PostgreSQL** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white) | Relational database management   |  
 
-- **Vite**  
-  ![Vite](./assets/icons/vite.svg)
-
-- **JavaScript**  
-  ![JavaScript](./assets/icons/javascript.svg)
-
-- **TailwindCSS**  
-  ![TailwindCSS](./assets/icons/tailwindcss.svg)
-
-- **Firebase**  
-  ![Firebase](./assets/icons/firebase.svg)
-
-- **PostgreSQL**  
-  ![PostgreSQL](./assets/icons/postgresql.svg)
-
-- **Node.js**  
-  ![Node.js](./assets/icons/nodejs.svg)
-
-- **Express**  
-  ![Express](./assets/icons/express.svg)
 
 
 Team Structure
