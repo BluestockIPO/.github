@@ -71,9 +71,10 @@ Team Structure
 |--------|--------------------------|---------------|---------------------------------|-------------|
 | 1      | Vijayakumar M            | Team Lead     | km1893295@gmail.com             | 9092322803  |
 | 2      | Tanay Sanjay Shinde      | Co-Team Lead  | tanayshinde1820@gmail.com       | 9156544147  |
-| 3      | Navneet Kumar            | Developer     | navaneetkumarkm11@gmail.com     | 9759617348  |
-| 4      | Nisha Kumari Singh       | Developer     | nisha03ks05@gmail.com           | 8624800542  |
-| 5      | Puli Sailokesh Reddy     | Developer     | sailokeshreddy093@gmail.com     | 9392849985  |
-| 6      | Deepthi S J              | Developer     | deepthisj17@gmail.com           | 7892747423  |
-| 7      | Shaik Nagul Meera        | Developer     | sknagulmeera2580@gmail.com      | 6300305638  |
-| 8      | Khadar Badar Hariharanath| Developer     | hariharanath247@gmail.com       | 7989777877  |
+| 3      | Hariharanath             | Developer     | hariharanath247@gmail.com       | 7989777877  |
+| 4      | Navneet Kumar            | Developer     | navaneetkumarkm11@gmail.com     | 9759617348  |
+| 5      | Nisha Kumari Singh       | Developer     | nisha03ks05@gmail.com           | 8624800542  |
+| 6      | Puli Sailokesh Reddy     | Developer     | sailokeshreddy093@gmail.com     | 9392849985  |
+| 7      | Deepthi S J              | Developer     | deepthisj17@gmail.com           | 7892747423  |
+| 8      | Shaik Nagul Meera        | Developer     | sknagulmeera2580@gmail.com      | 6300305638  |
+
