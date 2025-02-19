@@ -1,5 +1,11 @@
 # Bluestock Fintech - IPO Web Application & REST API Development
 
+<p align="center">
+  <img src="logo (1).png" alt="Academic Pal Logo" width="200"/>
+</p>
+
+<h1 align="center">BlueStock Fintech</h1>
+
 Welcome to the Bluestock Fintech repository for the **IPO Web Application & REST API Development** project. This project is designed to provide a robust platform for delivering IPO-related information to our clients and the public. It includes a web application and a REST API that collectively display critical IPO data and provide downloadable resources.
 
 ---
