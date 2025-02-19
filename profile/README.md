@@ -98,3 +98,77 @@ Team Structure
 | 7      | Deepthi S J              | Developer     | deepthisj17@gmail.com           | 7892747423  |
 | 8      | Shaik Nagul Meera        | Developer     | sknagulmeera2580@gmail.com      | 6300305638  |
 
+
+
+
+## 🚀 Installation Guide  
+Follow these steps to set up the **Bluestock Fintech IPO Web Application & REST API** on your local machine.  
+
+### 📌 Prerequisites  
+- 🟢 **[Node.js](https://nodejs.org/)** (Latest LTS version)  
+- 🟠 **[Git](https://git-scm.com/)**  
+- 🔵 **[PostgreSQL](https://www.postgresql.org/)**  
+- 🌐 **Internet Connection** (for installing dependencies)  
+
+### 🛠️ Step-by-Step Installation  
+#### 1️⃣ Clone the Repository  
+```sh  
+git clone https://github.com/your-repo/bluestock-fintech.git  
+cd bluestock-fintech  
+```  
+#### 2️⃣ Install Dependencies  
+```sh  
+npm install  
+```  
+or, if using **yarn**  
+```sh  
+yarn install  
+```  
+#### 3️⃣ Configure Environment Variables  
+- Create a **.env** file in the root directory  
+- Add the required credentials (Example):  
+```env  
+PORT=5000  
+DATABASE_URL=your_postgresql_connection_string  
+FIREBASE_API_KEY=your_firebase_api_key  
+```  
+#### 4️⃣ Start the Development Server  
+```sh  
+npm run dev  
+```  
+or  
+```sh  
+yarn dev  
+```  
+#### 5️⃣ Open in Browser 🌍  
+Visit `http://localhost:5173/` to see the frontend in action.  
+
+---  
+
+## ✅ Additional Commands  
+| Command           | Description                        |  
+|------------------|--------------------------------|  
+| `npm run build`  | 🔨 Builds the project for production |  
+| `npm run start`  | 🚀 Starts the server in production mode |  
+| `npm run lint`   | 📏 Checks for linting issues  |  
+| `npm test`      | 🧪 Runs the test suite  |  
+
+---  
+
+## 🌎 API Documentation  
+Coming Soon...  
+
+---  
+
+## 🛠️ Task Management  
+- 📌 Use **Notion** for assigning and tracking tasks within the team.  
+- 🔄 Developers must report daily work status to the **Team Leader**.  
+- 🔄 The **Team Leader** should report work progress every 7 days to **Mr. Yash Kale**.  
+
+---  
+
+## 💡 Need Help?  
+📧 Email: [hello@bluestock.in](mailto:hello@bluestock.in)  
+📞 WhatsApp: [7038202440](https://wa.me/7038202440)  
+🌐 Website: [Bluestock Fintech](https://www.bluestock.in)  
+
