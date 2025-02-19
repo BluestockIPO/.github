@@ -65,6 +65,35 @@ This platform will serve both Bluestock Fintech’s website/app and client websi
 - **Development Environment:** Node.js, Python, or any preferred stack (refer to project-specific docs).
 - **Access:** Check your email for the GitHub repository access details. If you do not have access to the production repo, contact the Team Lead.
 
+## Tech Stack
+
+Our project leverages a modern tech stack to build a robust and scalable application:
+
+- **React**  
+  ![React](./assets/icons/react.svg)
+
+- **Vite**  
+  ![Vite](./assets/icons/vite.svg)
+
+- **JavaScript**  
+  ![JavaScript](./assets/icons/javascript.svg)
+
+- **TailwindCSS**  
+  ![TailwindCSS](./assets/icons/tailwindcss.svg)
+
+- **Firebase**  
+  ![Firebase](./assets/icons/firebase.svg)
+
+- **PostgreSQL**  
+  ![PostgreSQL](./assets/icons/postgresql.svg)
+
+- **Node.js**  
+  ![Node.js](./assets/icons/nodejs.svg)
+
+- **Express**  
+  ![Express](./assets/icons/express.svg)
+
+
 Team Structure
 
 | SR. No | Name                     | Role          | Email                           | Mobile      |
